@@ -52,3 +52,27 @@ const char* const RELS_DE[] = {
   "fünf vor *$2"
 };
 
+const char* const MONTHS_DE_DE[] = {
+  "jan",
+  "feb",
+  "mär",
+  "apr",
+  "mai",
+  "jun",
+  "jul",
+  "aug",
+  "sep",
+  "okt",
+  "nov",
+  "dez"
+};
+
+const char* const DAYS_DE_DE[] = {
+  "so",
+  "mo",
+  "di",
+  "mi",
+  "do",
+  "fr",
+  "sa"
+};
